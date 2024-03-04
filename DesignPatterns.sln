@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{F81C44BE-860B-4E25-A0A9-A0E908DAD000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{3ADCC494-E512-4874-833D-90CBA22B3034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{F81C44BE-860B-4E25-A0A9-A0E908DAD000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F81C44BE-860B-4E25-A0A9-A0E908DAD000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F81C44BE-860B-4E25-A0A9-A0E908DAD000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADCC494-E512-4874-833D-90CBA22B3034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADCC494-E512-4874-833D-90CBA22B3034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADCC494-E512-4874-833D-90CBA22B3034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADCC494-E512-4874-833D-90CBA22B3034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
