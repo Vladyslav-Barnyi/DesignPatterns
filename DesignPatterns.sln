@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{6BDC291A-CC80-4EDF-B211-4B0A8E734C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{196D62B9-E291-4C01-B91C-AFC0C676E193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6BDC291A-CC80-4EDF-B211-4B0A8E734C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BDC291A-CC80-4EDF-B211-4B0A8E734C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BDC291A-CC80-4EDF-B211-4B0A8E734C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196D62B9-E291-4C01-B91C-AFC0C676E193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196D62B9-E291-4C01-B91C-AFC0C676E193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196D62B9-E291-4C01-B91C-AFC0C676E193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196D62B9-E291-4C01-B91C-AFC0C676E193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

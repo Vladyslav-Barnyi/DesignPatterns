@@ -1,0 +1,15 @@
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\bin\Debug\net8.0\Factory.exe
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\bin\Debug\net8.0\Factory.deps.json
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\bin\Debug\net8.0\Factory.runtimeconfig.json
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\bin\Debug\net8.0\Factory.dll
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\bin\Debug\net8.0\Factory.pdb
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.sourcelink.json
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.dll
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\refint\Factory.dll
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.pdb
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+C:\Users\vbarnyi\RiderProjects\DesignPatterns\Factory\obj\Debug\net8.0\ref\Factory.dll
